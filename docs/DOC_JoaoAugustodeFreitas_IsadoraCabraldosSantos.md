@@ -3,11 +3,13 @@
 
 **Alunos:** João Augusto de Freitas e Isadora Cabral dos Santos  
 
+[Diagramas  e Casos de Uso (Aula 11-03)](https://github.com/maxvallim-coder/ES_aula11032026/blob/main/docs/UC_IsadoraCabraldosSantos_JoaoAugustodeFreitas.md)
+
 ---
 
 ## Índice
-1. [Diagrama Geral de Casos de Uso](#diagrama-geral)
-2. [Casos de Uso e Diagramas de Atividade](#casos-de-uso)
+[Casos de Uso e Diagramas de Atividade](#casos-de-uso)
+   - Diagrama geral de casos de uso
    - UC01: Realizar Login
    - UC02: Cadastrar Aluno
    - UC03: Editar Dados do Aluno
@@ -33,7 +35,7 @@
 
 ## Diagrama Geral de Casos de Uso {#diagrama-geral}
 
-![DUC_GERAL](uml/DUC_GERAL.png)
+<img width="4096" height="486" alt="DUC_GERAL" src="https://github.com/user-attachments/assets/ef0f0f0a-da17-4875-a699-95f0909a6d3b" />
 
 ---
 
@@ -88,7 +90,7 @@ Permitir que o usuário acesse o sistema com suas credenciais.
 
 ## Diagrama de Fluxo da Atividade
 
-![UC01_Atividade](uml/UC01_Atividade.png)
+<img width="1020" height="653" alt="UC01_Atividade" src="https://github.com/user-attachments/assets/edefae24-e41a-4bc3-9240-09043a53bb8b" />
 
 ---
 
@@ -143,7 +145,7 @@ Registrar um novo aluno no sistema com todos os dados necessários para matrícu
 
 ## Diagrama de Fluxo da Atividade
 
-![UC02_Atividade](uml/UC02_Atividade.png)
+<img width="327" height="1221" alt="UC02_Atividade" src="https://github.com/user-attachments/assets/1e2d15aa-bc6d-4ab7-84cc-e17bafde60d7" />
 
 ---
 
@@ -190,7 +192,7 @@ Atualizar informações cadastrais de um aluno existente.
 
 ## Diagrama de Fluxo da Atividade
 
-![UC03_Atividade](uml/UC03_Atividade.png)
+<img width="355" height="896" alt="UC03_Atividade" src="https://github.com/user-attachments/assets/26a08e7b-eb21-4dc8-adbb-b1802c9ed89b" />
 
 ---
 
@@ -236,7 +238,7 @@ Criar, editar, ativar e desativar planos disponíveis na academia.
 
 ## Diagrama de Fluxo da Atividade
 
-![UC04_Atividade](uml/UC04_Atividade.png)
+<img width="750" height="712" alt="UC04_Atividade" src="https://github.com/user-attachments/assets/acb05e3f-b2b8-44f8-9d8f-0d495d8390c4" />
 
 ---
 
@@ -289,7 +291,7 @@ Registrar o pagamento da mensalidade de um aluno.
 
 ## Diagrama de Fluxo da Atividade
 
-![UC05_Atividade](uml/UC05_Atividade.png)
+<img width="515" height="1126" alt="UC05_Atividade" src="https://github.com/user-attachments/assets/0ee39d84-2007-410f-9119-0470ffce1dea" />
 
 ---
 
@@ -334,7 +336,7 @@ Verificar automaticamente se o aluno possui mensalidade em dia para permitir ace
 
 ## Diagrama de Fluxo da Atividade
 
-![UC06_Atividade](uml/UC06_Atividade.png)
+<img width="557" height="959" alt="UC06_Atividade" src="https://github.com/user-attachments/assets/c42c1c8a-9f6d-4b17-b105-672806202dd0" />
 
 ---
 
@@ -386,7 +388,7 @@ Validar e liberar ou bloquear o acesso físico do aluno à academia via cartão 
 
 ## Diagrama de Fluxo da Atividade
 
-![UC07_Atividade](uml/UC07_Atividade.png)
+<img width="1082" height="802" alt="UC07_Atividade" src="https://github.com/user-attachments/assets/4c07fb4a-5629-497e-91eb-f2ca974f930d" />
 
 ---
 
@@ -428,7 +430,7 @@ Permitir que o aluno visualize os horários e as vagas disponíveis das aulas of
 
 ## Diagrama de Fluxo da Atividade
 
-![UC08_Atividade](uml/UC08_Atividade.png)
+<img width="574" height="737" alt="UC08_Atividade" src="https://github.com/user-attachments/assets/b4679766-ee0d-4c61-9f05-0e84a3634a4c" />
 
 ---
 
@@ -484,7 +486,7 @@ Reservar uma vaga em uma aula disponível.
 
 ## Diagrama de Fluxo da Atividade
 
-![UC09_Atividade](uml/UC09_Atividade.png)
+<img width="286" height="1280" alt="UC09_Atividade" src="https://github.com/user-attachments/assets/78c9f7bc-5a96-49c7-8de7-7fda27cb5748" />
 
 ---
 
@@ -531,7 +533,7 @@ Cancelar uma reserva de aula previamente agendada.
 
 ## Diagrama de Fluxo da Atividade
 
-![UC10_Atividade](uml/UC10_Atividade.png)
+<img width="718" height="892" alt="UC10_Atividade" src="https://github.com/user-attachments/assets/5137c95d-5c13-4d0e-9512-b8c941e98126" />
 
 ---
 
@@ -579,7 +581,7 @@ Registrar a presença dos alunos em uma aula ministrada.
 
 ## Diagrama de Fluxo da Atividade
 
-![UC11_Atividade](uml/UC11_Atividade.png)
+<img width="424" height="1001" alt="UC11_Atividade" src="https://github.com/user-attachments/assets/aa138d7f-be75-4e85-9c33-e1cb89754e9c" />
 
 ---
 
@@ -630,7 +632,7 @@ Registrar os dados de avaliação física de um aluno, incluindo medidas corpora
 
 ## Diagrama de Fluxo da Atividade
 
-![UC12_Atividade](uml/UC12_Atividade.png)
+<img width="405" height="1374" alt="UC12_Atividade" src="https://github.com/user-attachments/assets/f8923ca3-faf5-4192-b636-3016d9b02f84" />
 
 ---
 
@@ -673,7 +675,7 @@ Consultar o histórico de avaliações físicas de um aluno ao longo do tempo.
 
 ## Diagrama de Fluxo da Atividade
 
-![UC13_Atividade](uml/UC13_Atividade.png)
+<img width="421" height="1119" alt="UC13_Atividade" src="https://github.com/user-attachments/assets/46605918-8bec-45c0-88d5-d59e458f7e32" />
 
 ---
 
@@ -717,7 +719,7 @@ Gerar relatório com a lista de alunos inadimplentes, valores em aberto e tempo 
 
 ## Diagrama de Fluxo da Atividade
 
-![UC14_Atividade](uml/UC14_Atividade.png)
+<img width="475" height="1099" alt="UC14_Atividade" src="https://github.com/user-attachments/assets/0644eb1c-f7b4-49bc-be9e-b5d67a96d526" />
 
 ---
 
@@ -759,7 +761,7 @@ Gerar relatório com todos os alunos com matrícula ativa na academia.
 
 ## Diagrama de Fluxo da Atividade
 
-![UC15_Atividade](uml/UC15_Atividade.png)
+<img width="537" height="937" alt="UC15_Atividade" src="https://github.com/user-attachments/assets/f7588144-5a26-4476-be10-d00ee9cfa9fc" />
 
 ---
 
@@ -803,7 +805,7 @@ Gerar relatório com o histórico de entradas dos alunos na academia.
 
 ## Diagrama de Fluxo da Atividade
 
-![UC16_Atividade](uml/UC16_Atividade.png)
+<img width="463" height="937" alt="UC16_Atividade" src="https://github.com/user-attachments/assets/31b8316d-4e65-4edc-9452-c0847f2e8abb" />
 
 ---
 
@@ -848,7 +850,7 @@ Gerar relatório com a taxa de ocupação das aulas oferecidas pela academia.
 
 ## Diagrama de Fluxo da Atividade
 
-![UC17_Atividade](uml/UC17_Atividade.png)
+<img width="533" height="1153" alt="UC17_Atividade" src="https://github.com/user-attachments/assets/b395ee42-2f5b-42c0-b1c2-77f74758b8cf" />
 
 ---
 
@@ -894,7 +896,7 @@ Enviar notificações automáticas aos alunos informando sobre o vencimento pró
 
 ## Diagrama de Fluxo da Atividade
 
-![UC18_Atividade](uml/UC18_Atividade.png)
+<img width="682" height="1343" alt="UC18_Atividade" src="https://github.com/user-attachments/assets/dd0554b2-5268-4423-bd77-00f88793f8b5" />
 
 ---
 
@@ -944,7 +946,7 @@ Gerar boleto bancário ou token de pagamento online para que o aluno quite sua m
 
 ## Diagrama de Fluxo da Atividade
 
-![UC19_Atividade](uml/UC19_Atividade.png)
+<img width="548" height="1281" alt="UC19_Atividade" src="https://github.com/user-attachments/assets/bda9f871-8b5f-470f-b5a0-254888adefce" />
 
 ---
 
@@ -994,7 +996,7 @@ Criar, editar, ativar e desativar contas de usuários do sistema, definindo perf
 
 ## Diagrama de Fluxo da Atividade
 
-![UC20_Atividade](uml/UC20_Atividade.png)
+<img width="792" height="1114" alt="UC20_Atividade" src="https://github.com/user-attachments/assets/9f54abf4-6d25-49ad-a636-f5d7bc89fad4" />
 
 ---
 
@@ -1014,7 +1016,3 @@ Este documento apresenta a especificação completa dos 20 casos de uso do Siste
 Os diagramas de atividade seguem a notação padrão de diagramas de atividade UML e estão referenciados como imagens PNG, facilitando a compreensão e implementação do sistema pelos desenvolvedores.
 
 ---
-
-**Data de Elaboração:** 18 de Março de 2026  
-**Autores:** João Augusto de Freitas e Isadora Cabral dos Santos  
-**Disciplina:** Engenharia de Software
